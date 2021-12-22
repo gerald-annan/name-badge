@@ -95,6 +95,10 @@ NameBadge.print(nil, "Rachel Miller", nil)
 
 ## Source
 
+### Solved by
+
+- @gerald-annan
+
 ### Created by
 
 - @angelikatyborska
